@@ -1,0 +1,1 @@
+`Preact Menu` is a general purpose menu library for preact
